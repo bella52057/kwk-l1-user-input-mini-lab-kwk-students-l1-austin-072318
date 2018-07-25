@@ -13,10 +13,9 @@ eats = gets.chomp.capitalize
 puts "sounds great! Finally, how many nights do you want to stay?"
 
 nights = gets.chomp.capitalize
-#Do the same thing with `eats` and one last time with `nights`, capturing their text input and storing them to the respective local variable
 
 
+puts "sound fun! can't wait to hear about your trip!"
 
-# Lastly, puts it all back by interpolating these values in a string.
-
-puts ""
+end
+end
