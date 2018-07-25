@@ -12,6 +12,6 @@ puts "sounds great! Finally, how many nights do you want to stay?"
 nights = gets.chomp.capitalize
 
 
-puts "sound fun! can't wait to hear about your trip!"
+puts " on this trip, you are going stay at #{stay} and you are going to enjoy #{eat} in the duration of #{nights} nights  until its time to return home.
 
 
