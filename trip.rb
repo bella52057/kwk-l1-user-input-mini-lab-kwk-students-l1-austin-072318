@@ -1,6 +1,3 @@
-
-def trip(place = hawaii)
-  
 puts "Let's plan your trip! Where would you like to stay?"
 
 
