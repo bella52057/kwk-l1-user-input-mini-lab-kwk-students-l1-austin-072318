@@ -1,5 +1,5 @@
 
-
+def trip(place = hawaii)
 # First, puts out a string asking where the tourist would like to stay.
 puts "Let's plan your trip! Where would you like to stay?"
 
@@ -18,4 +18,4 @@ nights = gets.chomp.capitalize
 puts "sound fun! can't wait to hear about your trip!"
 
 end
-end
+trip
