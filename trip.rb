@@ -17,5 +17,4 @@ nights = gets.chomp.capitalize
 
 puts "sound fun! can't wait to hear about your trip!"
 
-end
-trip
+
