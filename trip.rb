@@ -5,7 +5,7 @@ stay = gets.chomp.capitalize
 
 puts "Ok! what do you want to eat on this trip?"
 
-eat = gets.chomp.capitalize
+eat = gets.chomp
 
 puts "sounds great! Finally, how many nights do you want to stay?"
 
